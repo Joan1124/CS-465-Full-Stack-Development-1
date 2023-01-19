@@ -2,17 +2,17 @@
 {
     "name": "gale reef",
     "image": "reef1.jpg",
-    "description": "<p> the reef goes reef reef </p>"
+    "description": "<p> Gale reef: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare ex eu nulla porta, in ornare nisi volutpat. Cras faucibus, risus vel vestibulum fermentum, nulla lorem lacinia orci, non cursus eros massa a velit. Cras tortor erat, tincidunt at consequat sed, bibendum et elit. Duis fringilla nulla nec arcu euismod ultrices. Aenean sed elementum libero. </p>"
 
 },{
     "name": "dawsons reef",
     "image": "reef2.jpg",
-    "description": "<p> this is the dawsons reef </p>"
+    "description": "<p>Dawsons reef: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare ex eu nulla porta, in ornare nisi volutpat. Cras faucibus, risus vel vestibulum fermentum, nulla lorem lacinia orci, non cursus eros massa a velit. Cras tortor erat, tincidunt at consequat sed, bibendum et elit. Duis fringilla nulla nec arcu euismod ultrices. Aenean sed elementum libero. </p>"
     
 },{
     "name": "claire reef",
     "image": "reef3.jpg",
-    "description": "<p> claire did this </p>"
+    "description": "<p> claire reef: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare ex eu nulla porta, in ornare nisi volutpat. Cras faucibus, risus vel vestibulum fermentum, nulla lorem lacinia orci, non cursus eros massa a velit. Cras tortor erat, tincidunt at consequat sed, bibendum et elit. Duis fringilla nulla nec arcu euismod ultrices. Aenean sed elementum libero. </p>"
 
     
 }
