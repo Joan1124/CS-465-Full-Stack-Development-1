@@ -1,5 +1,5 @@
 module.exports = {
-    modelBaseDirectory: 'app_server/models', //model dir name
+    modelBaseDirectory: 'app_api/models', //model dir name
     models: ['*.js', '!db.js'], //model matcher
     data: 'data', //data directory name
     db: 'mongodb://localhost:27017/travlr' // db connection url
