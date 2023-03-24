@@ -1,2 +1,5 @@
 # CS-465-Full-Stack-Development-1
-Create a full stack application. This is part 1 of a 2 parts class.
+
+Developed a full-stack Angular web app using the MEAN stack.
+User authentication, a RESTful API, a Single Page Application (SPA), and a non-relational database, are included.
+
